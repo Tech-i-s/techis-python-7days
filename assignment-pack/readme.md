@@ -17,9 +17,21 @@ Write a program that does the following in order:
 
 ### Dream Home Savings Calculator
 
-Consider the situation where you have graduated from Tech I.S. and have an IT job. You have to build a program that helps you calculate how many months it takes to save up for your dream home. The program will take in inputs as specified below and output the number of months it takes to save up for the home. 
+- Consider the situation where you have graduated from Tech I.S. and have an IT job
 
-The first part does not consider a job that gives a raise, but the second part considers a job where there is a semi-annual raise. 
+- You have to build a program that helps you calculate how many months it takes to save up for the **down-payment**
+
+- The program will take in inputs as specified below and output the number of months it takes to save up for the **down-payment**
+
+- Assume the following:
+    - portion of down-payment (of total cost of home): `25%`
+    - interest rate for saving money in bank: `4%`
+        - so additional funds earned due to interest:
+            - `(current savings)*(interest rate)/12`
+    - monthly salary: `(annual salary)/12`
+
+
+- *Part 1* below considers a job that gives no raise, but *Part 2* considers a job where there is a semi-annual raise
 
 
 #### **Part 1**
@@ -32,7 +44,7 @@ Write a program that does the following:
     - takes in input of cost of dream home
 
 - outputs:
-    - number of months it takes to save up for dream home
+    - number of months it takes to save up for _down-payment_
 
 
 _Test Case 1:_
@@ -64,7 +76,7 @@ Write a program that does the following:
     - takes in semi-annual raise as percent of annual raise
 
 - outputs:
-    - number of months it takes to save up for dream home
+    - number of months it takes to save up for _down-payment_
 
 _Test Case 1:_
 

@@ -35,3 +35,10 @@
 # PYTHON PLATFORM
 
 - [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)
+
+***
+
+# NEXT STEPS
+
+- [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
+- [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)

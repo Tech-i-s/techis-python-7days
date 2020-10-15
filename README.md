@@ -42,3 +42,9 @@
 
 - [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
 - [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)
+
+***
+
+# GUIDE TO LEARNING
+
+- [Learning How to Learn](https://beta.cent.co/+m73icb)

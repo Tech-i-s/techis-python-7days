@@ -4,7 +4,7 @@
 
 - Please create an `.ipynb` file with the answers and submit it in on Slack or email it to raghavendra@techis.io
 - Please make sure your code is organized and commented well 
-    - read the [Variable-Naming-Guide](.Variable-Naming-Guide.pdf) to get guidance on how to name your varibles 
+    - read the [Variable-Naming-Guide](/Variable-Naming-Guide.pdf) to get guidance on how to name your varibles 
 - Please name the file in this format:
     - `firstname-lastname-py10-assignemt.ipynb`
 

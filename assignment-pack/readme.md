@@ -1,5 +1,9 @@
 ## Python-10 Assignment
 
+### Getting Started
+
+- [Assignment Process Outline Video](https://youtu.be/b9NRaPwHHiU)
+
 ### Submission Guidelines
 
 - Please create an `.ipynb` file with the answers and submit it in on Slack or email it to raghavendra@techis.io

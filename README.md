@@ -28,7 +28,7 @@
   - Datetime Module
   - Math Module
   - Random Module
-  - [Creating a Module on Google Colab - Supplementary Video](https://youtu.be/CEIUuXjmNb) 
+  - [Creating a Module on Google Colab - Supplementary Video](https://youtu.be/CEIUuXjmNb4) 
   
 ***
   

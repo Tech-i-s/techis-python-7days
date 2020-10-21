@@ -12,8 +12,9 @@
         
 - Submit it in on Slack or email it to raghavendra@techis.io
 
-- Please make sure your code is organized and commented well 
+- Please make sure your code is **organized** and commented well 
     - read the [Variable-Naming-Guide](Variable-Naming-Guide.pdf) to get guidance on how to name your variables 
+    - watch the video [here](https://youtu.be/b9NRaPwHHiU) to know how to organize your file
 
 - Please use custom variable naming system in your assignment submission
     - do not copy the solution, use as a template to guide you

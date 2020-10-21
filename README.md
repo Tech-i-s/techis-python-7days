@@ -49,3 +49,9 @@
 # GUIDE TO LEARNING
 
 - [Learning How to Learn](https://beta.cent.co/+m73icb)
+
+***
+
+# COHORT MEET LINK
+
+- [Python-10 Day Evaluation Cohort Google Meet Link](https://meet.google.com/mak-rthh-fem)

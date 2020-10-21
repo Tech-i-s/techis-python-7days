@@ -54,4 +54,4 @@
 
 # COHORT MEET LINK
 
-- [Python-10 Day Evaluation Cohort Google Meet Link](https://meet.google.com/mak-rthh-fem)
+- [Python-10 Day Evaluation Cohort - Google Meet Link](https://meet.google.com/mak-rthh-fem)

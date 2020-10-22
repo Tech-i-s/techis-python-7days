@@ -18,6 +18,10 @@
 
 - Please use custom variable naming system in your assignment submission
     - do not copy the solution, use as a template to guide you
+    
+- WARNING: 
+    - do not directly copy paste the solution code
+        - doing so will hang your computer
 
 ***
 

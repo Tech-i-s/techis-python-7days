@@ -48,6 +48,7 @@
 
 # GUIDE TO LEARNING
 
+- [Fail Fast to Learn Fast](https://www.lifehack.org/851912/fail-fast) (Required Learning)
 - [Learning How to Learn](https://beta.cent.co/+m73icb)
 
 ***

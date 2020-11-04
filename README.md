@@ -1,3 +1,33 @@
+# PYTHON PLATFORM
+
+- [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)
+
+***
+
+# NEXT STEPS
+
+- [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
+- [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)
+
+***
+
+# GUIDE TO LEARNING
+
+- [Fail Fast to Learn Fast](https://www.lifehack.org/851912/fail-fast) (Required Reading)
+- [Learning How to Learn](https://beta.cent.co/+m73icb)
+
+***
+
+# COHORT MEET LINK
+
+- [Python-10 Day Evaluation Cohort - Google Meet Link](https://meet.google.com/mak-rthh-fem)
+- Cohort Timings:
+  - 12PM EST and 5PM EST
+  - Mondays and Tuesday, No Cohort Meets
+    - Tutor help still available
+
+***
+
 # TOPICS
 
 - Python Foundations 01:
@@ -30,33 +60,3 @@
   - Random Module
   - [Creating a Module on Google Colab - Supplementary Video](https://youtu.be/CEIUuXjmNb4) 
   
-***
-  
-
-# PYTHON PLATFORM
-
-- [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)
-
-***
-
-# NEXT STEPS
-
-- [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
-- [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)
-
-***
-
-# GUIDE TO LEARNING
-
-- [Fail Fast to Learn Fast](https://www.lifehack.org/851912/fail-fast) (Required Reading)
-- [Learning How to Learn](https://beta.cent.co/+m73icb)
-
-***
-
-# COHORT MEET LINK
-
-- [Python-10 Day Evaluation Cohort - Google Meet Link](https://meet.google.com/mak-rthh-fem)
-- Cohort Timings:
-  - 12PM EST and 5PM EST
-  - Mondays and Tuesday, No Cohort Meets
-    - Tutor help still available

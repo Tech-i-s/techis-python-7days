@@ -56,3 +56,7 @@
 # COHORT MEET LINK
 
 - [Python-10 Day Evaluation Cohort - Google Meet Link](https://meet.google.com/mak-rthh-fem)
+- Cohort Timings:
+  - 1PM EST and 6PM EST
+  - Mondays and Tuesday, No Cohort Meets
+  - Tutor help still available

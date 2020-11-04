@@ -59,4 +59,4 @@
 - Cohort Timings:
   - 1PM EST and 6PM EST
   - Mondays and Tuesday, No Cohort Meets
-  - Tutor help still available
+    - Tutor help still available

@@ -28,7 +28,7 @@
 
 ***
 
-# TOPICS
+# PYTHON FOUNDATION TOPICS
 
 - Python Foundations 01:
   - `Hello World` program
@@ -60,3 +60,18 @@
   - Random Module
   - [Creating a Module on Google Colab - Supplementary Video](https://youtu.be/CEIUuXjmNb4) 
   
+***
+
+# GRADUATION REQUIREMENTS
+
+- Complete the four learning modules
+- 5 minute web-seminar about one topic from these learning modules (2 slides max)
+- Python Quiz 
+
+***
+
+# VIRTUES OF TECH I.S. LEARNER
+
+- Be Professional 
+- Be a Team Player
+- Enjoy Programming

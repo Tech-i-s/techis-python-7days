@@ -15,6 +15,7 @@
 
 - [Fail Fast to Learn Fast](https://www.lifehack.org/851912/fail-fast) (Required Reading)
 - [Learning How to Learn](https://beta.cent.co/+m73icb)
+- Feel free to ***experiment*** with code in with python notebooks when learning! 
 
 ***
 

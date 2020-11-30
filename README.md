@@ -21,7 +21,7 @@
 
 # COHORT MEET LINK
 
-- [Python-10 Day Evaluation Cohort - Zoom Meeting Link](https://zoom.us/s/94588427118?pwd=TmRINEdTWXl2dm9NaFA0MnYzUkJNUT09#success)
+- [Python-10 Day Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/94588427118?pwd=TmRINEdTWXl2dm9NaFA0MnYzUkJNUT09)
 - Cohort Timings:
   - 12PM EST and 5PM EST
   - Mondays and Tuesday, No Cohort Meets

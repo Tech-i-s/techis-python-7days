@@ -21,11 +21,34 @@
 
 # COHORT MEET LINK
 
-- [Python-10 Day Evaluation Cohort - Google Meet Link](https://meet.google.com/mak-rthh-fem)
+- [Python-10 Day Evaluation Cohort - Zoom Meeting Link](https://zoom.us/s/94588427118?pwd=TmRINEdTWXl2dm9NaFA0MnYzUkJNUT09#success)
 - Cohort Timings:
   - 12PM EST and 5PM EST
   - Mondays and Tuesday, No Cohort Meets
     - Tutor help still available
+
+***
+
+# GRADUATION REQUIREMENTS
+
+- Complete the four learning modules
+- 5 minute web-seminar about one topic from these learning modules (2 slides max)
+- Python Quiz 
+
+# QUIZ PREPARATION TIPS
+- put in 4 hours a day for 10 days 
+  - studying the PY-10 learning material
+- practice coding!!!
+  - example: build simple calculators 
+    - simple interest calculators 
+    - compound interest calculators 
+    - etc.
+- do many passes of the learning material:
+  - complete the first pass quickly going through the motions of typing the code
+  - then do a second pass with more detailed studying of the hard to understand sections
+  - reach out to tutors for help with the hard to understand sub-topics from the moduleS
+  - find more examples for each sub-topic from internet research and practice it more 
+  - review the material more times 
 
 ***
 
@@ -63,15 +86,7 @@
   
 ***
 
-# GRADUATION REQUIREMENTS
-
-- Complete the four learning modules
-- 5 minute web-seminar about one topic from these learning modules (2 slides max)
-- Python Quiz 
-
-***
-
-# VIRTUES OF TECH I.S. LEARNER
+# VIRTUES OF A TECH I.S. LEARNER
 
 - Be Professional 
 - Be a Team Player

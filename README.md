@@ -40,17 +40,17 @@
 - Python Quiz 
 
 # QUIZ PREPARATION TIPS
-- put in 4 hours a day for 10 days 
+- Put in 4 hours a day for 10 days 
   - studying the PY-10 learning material
-- practice coding!!!
-  - example: build simple calculators 
+- Practice coding!!!
+  - Example: build simple calculators 
     - simple interest calculators 
     - compound interest calculators 
     - etc.
-- do many passes of the learning material:
+- Do many passes of the learning material:
   - complete the first pass quickly going through the motions of typing the code
   - then do a second pass with more detailed studying of the hard to understand sections
-  - reach out to tutors for help with the hard to understand sub-topics from the moduleS
+  - reach out to tutors for help with the hard to understand sub-topics from the modules
   - find more examples for each sub-topic from internet research and practice it more 
   - review the material more times 
 

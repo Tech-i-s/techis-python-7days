@@ -29,7 +29,7 @@
 - Cohort Timings: 
   - 2100 EST
   - Friday and Saturday , No Cohort Meets
-<span style="color:red">- Tutor help still available</span>
+- Tutor help still available
 
 ***
 

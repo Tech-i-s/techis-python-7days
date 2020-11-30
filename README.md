@@ -27,7 +27,7 @@
   - Mondays and Tuesday, No Cohort Meets
 - [Python-10 Night Evaluation Cohort - Google Meet Link](https://meet.google.com/kzf-tmwi-gaz)
 - Cohort Timings: 
-  - 2100 EST
+  - 9PM EST
   - Friday and Saturday , No Cohort Meets
 - Tutor help still available
 

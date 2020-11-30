@@ -25,7 +25,7 @@
 - Cohort Timings:
   - 12PM EST and 5PM EST
   - Mondays and Tuesday, No Cohort Meets
-- [Python-102 Evening Evaluation Cohort - Google Meet Link](https://meet.google.com/kzf-tmwi-gaz)
+- [Python-10 Night Evaluation Cohort - Google Meet Link](https://meet.google.com/kzf-tmwi-gaz)
 - Cohort Timings: 
   - 2100 EST
   - Friday and Saturday , No Cohort Meets

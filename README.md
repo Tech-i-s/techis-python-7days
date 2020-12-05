@@ -43,7 +43,11 @@
 - 5 minute web-seminar about one topic from these learning modules (2 slides max)
 - Python Quiz 
 
-# QUIZ PREPARATION TIPS
+### 10-day Graduation Plan
+
+![10-day Graduation Plan](https://i.imgur.com/C9se1Vu.png)
+
+### Quiz Preparation Tips:
 - Put in 4 hours a day for 10 days 
   - studying the PY-10 learning material
 - Practice coding!!!
@@ -91,7 +95,10 @@
   - Math Module
   - Random Module
   - [Creating a Module on Google Colab - Supplementary Video](https://youtu.be/CEIUuXjmNb4) 
-  
+ 
+
+ 
+ 
 ***
 
 # VIRTUES OF A TECH I.S. LEARNER

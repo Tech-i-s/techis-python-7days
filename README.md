@@ -96,8 +96,10 @@
   - Random Module
   - [Creating a Module on Google Colab - Supplementary Video](https://youtu.be/CEIUuXjmNb4) 
  
+# FEEDBACK FORM
 
- 
+- Please use this feedback form to provide feedback about tutoring sessions! 
+  - [Tutoring Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfy0gezbyZACtvC6gsBxpNUlwNh0sF644x0iJ1UsDkqv4eU0w/viewform)
  
 ***
 

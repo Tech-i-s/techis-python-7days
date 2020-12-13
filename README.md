@@ -8,6 +8,7 @@
 
 - [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
 - [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)
+- Install Slack mobile app and turn on notifications! 
 
 ***
 
@@ -15,7 +16,7 @@
 
 - [Fail Fast to Learn Fast](https://www.lifehack.org/851912/fail-fast) (Required Reading)
 - [Learning How to Learn](https://beta.cent.co/+m73icb)
-- Feel free to ***experiment*** with python code in the notebooks when learning! 
+- ***Experiment*** with python code in the notebooks when learning! 
 
 ***
 

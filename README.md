@@ -1,5 +1,7 @@
 # PLEASE READ THIS DOCUMENT AFTER YOUR ENTRANCE CEREMONY!
 
+***
+
 # PYTHON-3 PLATFORM
 
 - [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)

@@ -14,14 +14,6 @@
 
 ***
 
-# GUIDE TO LEARNING
-
-- [Fail Fast to Learn Fast](https://www.lifehack.org/851912/fail-fast) (Required Reading)
-- [Learning How to Learn](https://beta.cent.co/+m73icb)
-- [What I Wish I Knew Before I Started Learning to Code](https://www.freecodecamp.org/news/what-i-wish-i-knew-before-i-started-learning-to-code/)
-- ***Experiment*** with python code in the notebooks when learning! 
-
-***
 
 # COHORT MEET LINK
 
@@ -99,7 +91,18 @@
   - Math Module
   - Random Module
   - [Creating a Module on Google Colab - Supplementary Video](https://youtu.be/CEIUuXjmNb4) 
- 
+
+***
+
+# GUIDE TO LEARNING
+
+- [Fail Fast to Learn Fast](https://www.lifehack.org/851912/fail-fast) (Required Reading)
+- [Learning How to Learn](https://beta.cent.co/+m73icb)
+- [What I Wish I Knew Before I Started Learning to Code](https://www.freecodecamp.org/news/what-i-wish-i-knew-before-i-started-learning-to-code/)
+- ***Experiment*** with python code in the notebooks when learning! 
+
+***
+
 # FEEDBACK FORM
 
 - Please use this feedback form to provide feedback about tutoring sessions! 
@@ -112,3 +115,6 @@
 - Be Professional 
 - Be a Team Player
 - Enjoy Programming
+
+
+

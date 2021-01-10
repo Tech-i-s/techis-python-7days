@@ -1,3 +1,5 @@
+**PLEASE READ THIS DOCUMENT**
+
 # PYTHON-3 PLATFORM
 
 - [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)

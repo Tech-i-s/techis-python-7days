@@ -28,9 +28,10 @@
   - Tutor help still available
   
 ### Nights
-- [Python-10 Night Evaluation Cohort - Google Meet Link](https://meet.google.com/kzf-tmwi-gaz)
+- [Python-10 Night Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/97741625999?pwd=ckc0VGFnTEVhRThOTjBzQ2Z2TEx0QT09)
 - Cohort Timings: 
   - 9PM EST
+  - Cohort Manager: Shubham Singh
   - Friday and Saturday, No Cohort Meets
   - Tutor help still available
 

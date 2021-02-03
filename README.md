@@ -20,14 +20,15 @@
 
 # COHORT MEET LINK
 
-### Mornings and Afternoons
+### Day Time Cohort Meetings
 - [Python-10 Day Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/98567537762?pwd=TkxQcWFtbm5mbmdVbVJxTW9QNmNIQT09)
 - Cohort Timings:
   - 12PM EST and 5PM EST
+  - Cohort Manager: Ghaiyur
   - Mondays and Tuesday, No Cohort Meets
   - Tutor help still available
   
-### Nights
+### Night Meetings
 - [Python-10 Night Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/97741625999?pwd=ckc0VGFnTEVhRThOTjBzQ2Z2TEx0QT09)
 - Cohort Timings: 
   - 9PM EST
@@ -66,21 +67,21 @@
 
 # PYTHON FOUNDATION TOPICS
 
-- Python Foundations 01:
+- [Python Foundations 01](https://github.com/Tech-i-s/python-10/blob/main/Step_1_1a_Python_Foundations_01.ipynb):
   - `Hello World` program
   - python interpreter
   - variables
   - data types
   - operators
 
-- Python Foundations 02:
+- [Python Foundations 02](https://github.com/Tech-i-s/python-10/blob/main/Step_1_1b_Python_Foundations_02.ipynb):
   - strings
   - lists
   - tuples
   - identity operators 
   - membership operators
 
-- Python Foundations 03:
+- [Python Foundations 03](https://github.com/Tech-i-s/python-10/blob/main/Step_1_1c_Python_Foundations_03.ipynb):
   - type conversions 
   - `if... elif... else` conditional 
   - `while` and `for` loops
@@ -89,12 +90,13 @@
   - scopes of variables 
   - `lambda`
   
-- Modules in Python:
+- [Modules in Python](https://github.com/Tech-i-s/python-10/blob/main/Step_1_1d_Modules_in_Python.ipynb):
+  - [Creating a Module on Google Colab - Supplementary Video](https://youtu.be/CEIUuXjmNb4) 
   - Creating and Using python modules
   - Datetime Module
   - Math Module
   - Random Module
-  - [Creating a Module on Google Colab - Supplementary Video](https://youtu.be/CEIUuXjmNb4) 
+
 
 ***
 

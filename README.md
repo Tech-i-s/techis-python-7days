@@ -43,6 +43,10 @@
 - Complete the four learning modules
 - 5 minute web-seminar about one topic from these learning modules (2 slides max)
 - Python Quiz 
+  - Perfect Score to Pass (10/10)
+  - Use of Google Colab during Quiz is allowed
+  - Quiz lasts for 20 minutes
+
 
 ### 10-day Graduation Plan
 

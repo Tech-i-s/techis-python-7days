@@ -21,7 +21,7 @@
 # COHORT MEET LINK
 
 ### Day Time Cohort Meetings
-- [Python-10 Day Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/99604260562?pwd=L05kdUxVSTh0R1ZpdUluY3c0SFhKZz09)
+- [Python-10 Day Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/96128675280?pwd=K0ZhL0RCOWdCK2xRaHZaVjNLMmdHZz09)
 - Cohort Timings:
   - 12PM EST and 5PM EST
   - Cohort Manager: Raghu

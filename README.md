@@ -23,7 +23,7 @@
 ### Day Time Cohort Meetings
 - [Python-10 Day Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/96128675280?pwd=K0ZhL0RCOWdCK2xRaHZaVjNLMmdHZz09)
 - Cohort Timings:
-  - 12PM EST and 5PM EST
+  - 1PM EST and 6PM EST || 10AM PST and 3PM PST
   - Cohort Manager: Himanshu Yadav
   - Mondays and Tuesday, No Cohort Meets
   - Tutor help still available

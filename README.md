@@ -113,13 +113,6 @@
 
 ***
 
-# FEEDBACK FORM
-
-- Please use this feedback form to provide feedback about tutoring sessions! 
-  - [Tutoring Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSfy0gezbyZACtvC6gsBxpNUlwNh0sF644x0iJ1UsDkqv4eU0w/viewform)
- 
-***
-
 # VIRTUES OF A TECH I.S. LEARNER
 
 - Be Professional 

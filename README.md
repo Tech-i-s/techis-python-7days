@@ -106,13 +106,3 @@
 - [Learning How to Learn](https://beta.cent.co/+m73icb)
 - [What I Wish I Knew Before I Started Learning to Code](https://www.freecodecamp.org/news/what-i-wish-i-knew-before-i-started-learning-to-code/)
 
-***
-
-# VIRTUES OF A TECH I.S. LEARNER
-
-- Be Professional 
-- Be a Team Player
-- Enjoy Programming
-
-
-

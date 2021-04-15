@@ -2,7 +2,7 @@
 
 ![py logo](https://raw.githubusercontent.com/Tech-i-s/techis-python-probation/main/techis_logo.jpg)
 
-# Before starting
+# Getting started
 - [Must wach before starting](https://drive.google.com/file/d/1S4vmKoR2z0kB7KGgI2eU59JpVoRhKSCx/view)
 - [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
 - [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)
@@ -13,11 +13,9 @@
 
 ***
 
-# Getting started
+# COHORT MEET LINK
 
-### COHORT MEET LINK
-
-**Day Time Cohort Meetings**
+### Day Time Cohort Meetings
 - [Python-10 Day Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/96128675280?pwd=K0ZhL0RCOWdCK2xRaHZaVjNLMmdHZz09)
 - Cohort Timings:
   - 1PM EST and 6PM EST || 10AM PST and 3PM PST
@@ -25,7 +23,7 @@
   - Mondays and Tuesday, No Cohort Meets
   - Tutor help still available
   
-**Night Meetings**
+### Night Meetings
 - [Python-10 Night Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/98567537762?pwd=TkxQcWFtbm5mbmdVbVJxTW9QNmNIQT09)
 - Cohort Timings: 
   - 9PM EST

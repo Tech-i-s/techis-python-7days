@@ -1,6 +1,6 @@
 # Welcome to TECH IS!
 
-### This documentation will help you get started with your programming journey
+### This documentation will help you get started with your programming journey with python !
 
 
 ![py logo](https://user-images.githubusercontent.com/67789350/114799843-37296300-9db6-11eb-9053-7baea859afba.png)

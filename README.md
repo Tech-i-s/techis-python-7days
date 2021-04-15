@@ -1,6 +1,6 @@
 # Welcome to TECH IS!
 
-![py logo](https://user-images.githubusercontent.com/59639763/114802567-90e05c00-9dbb-11eb-956f-76448846ea33.png)
+![py logo](https://raw.githubusercontent.com/Tech-i-s/techis-python-probation/main/techis_logo.jpg)
 
 # Getting Started
 - [Must wach before starting](https://drive.google.com/file/d/1S4vmKoR2z0kB7KGgI2eU59JpVoRhKSCx/view)

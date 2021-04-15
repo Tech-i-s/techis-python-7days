@@ -1,7 +1,5 @@
 # Welcome to TECH IS!
 
-### This documentation will help you get started with your programming journey with python !
-
 ![py logo](https://raw.githubusercontent.com/Tech-i-s/techis-python-probation/main/techis_logo.jpg)
 
 # Getting Started

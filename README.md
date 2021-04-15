@@ -1,4 +1,4 @@
-### Welcome to TECH IS!
+# Welcome to TECH IS!
 
 ![py logo](https://raw.githubusercontent.com/Tech-i-s/techis-python-probation/main/techis_logo.jpg)
 

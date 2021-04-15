@@ -19,17 +19,13 @@
 - [Python-10 Day Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/96128675280?pwd=K0ZhL0RCOWdCK2xRaHZaVjNLMmdHZz09)
 - Cohort Timings:
   - 1PM EST and 6PM EST || 10AM PST and 3PM PST
-  - Cohort Manager: Himanshu Yadav
   - Mondays and Tuesday, No Cohort Meets
-  - Tutor help still available
   
 ### Night Meetings
 - [Python-10 Night Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/98567537762?pwd=TkxQcWFtbm5mbmdVbVJxTW9QNmNIQT09)
 - Cohort Timings: 
   - 9PM EST
-  - Cohort Manager: Ghaiyur
   - Friday and Saturday, No Cohort Meets
-  - Tutor help still available
 
 ***
 

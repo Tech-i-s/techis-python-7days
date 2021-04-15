@@ -1,4 +1,4 @@
-### Welcome to TECH IS!
+# Welcome to TECH IS!
 
 This documentation will help you get started with your programming journey
 

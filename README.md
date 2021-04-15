@@ -1,5 +1,4 @@
-### Welcome to TECH IS! **These are matertials which help your coding journey. Happy coding !**
-
+### Welcome to TECH IS!
 
 ![py logo](https://raw.githubusercontent.com/Tech-i-s/techis-python-probation/main/techis_logo.jpg)
 

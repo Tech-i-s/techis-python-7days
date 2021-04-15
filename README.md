@@ -5,7 +5,7 @@
 
 ![py logo](https://user-images.githubusercontent.com/67789350/114799843-37296300-9db6-11eb-9053-7baea859afba.png)
 
-# NEXT STEPS
+# Getting Started
 - [Must wach before starting](https://drive.google.com/file/d/1S4vmKoR2z0kB7KGgI2eU59JpVoRhKSCx/view)
 - [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
 - [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)

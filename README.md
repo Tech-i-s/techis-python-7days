@@ -29,8 +29,12 @@
 
 ***
 
-# GRADUATION REQUIREMENTS
+# Roadmaps
 
+![10-day Graduation Plan](https://i.imgur.com/C9se1Vu.png)
+
+
+### GRADUATION REQUIREMENTS
 - Complete the four learning modules
 - 5 minute web-seminar about one topic from these learning modules (2 slides max)
 - Python Quiz 
@@ -38,10 +42,6 @@
   - Use of Google Colab during Quiz is allowed
   - Quiz lasts for 20 minutes
 
-
-### 10-day Graduation Plan
-
-![10-day Graduation Plan](https://i.imgur.com/C9se1Vu.png)
 
 ### Quiz Preparation Tips:
 - Put in 4 hours a day for 10 days 

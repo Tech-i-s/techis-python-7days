@@ -29,7 +29,7 @@
 ![10-day Graduation Plan](https://i.imgur.com/C9se1Vu.png)
 
 
-### GRADUATION REQUIREMENTS
+### Graduation Requirements
 - Complete the four learning modules
 - 5 minute web-seminar about one topic from these learning modules (2 slides max)
 - Python Quiz 

@@ -2,7 +2,7 @@
 
 ![py logo](https://raw.githubusercontent.com/Tech-i-s/techis-python-probation/main/techis_logo.jpg)
 
-# Getting started !
+# Getting Started !
 - [Must wach before starting](https://drive.google.com/file/d/1S4vmKoR2z0kB7KGgI2eU59JpVoRhKSCx/view)
 - [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
   - PYTHON-3 PLATFORM - [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)

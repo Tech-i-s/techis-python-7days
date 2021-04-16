@@ -13,7 +13,7 @@
 
 ***
 
-# COHORT MEET LINK
+# Cohort Meet Link
 
 ### Day Time Cohort Meetings
 - [Python-10 Day Evaluation Cohort - Zoom Meeting Link](https://zoom.us/j/96128675280?pwd=K0ZhL0RCOWdCK2xRaHZaVjNLMmdHZz09)

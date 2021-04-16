@@ -20,7 +20,7 @@
   
 - **Night Meetings**
   - **Zoom Meeting Link** - https://zoom.us/j/98567537762?pwd=TkxQcWFtbm5mbmdVbVJxTW9QNmNIQT09
-  - **Timings** : Sunday~Thursday 9PM EST
+  - **Timings** : Sunday~Thursday → 9PM EST
 
 ***
 

@@ -6,9 +6,7 @@
 - [Must wach before starting](https://drive.google.com/file/d/1S4vmKoR2z0kB7KGgI2eU59JpVoRhKSCx/view)
 - [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
 - [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)
-### PYTHON-3 PLATFORM
-
-- [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)
+- PYTHON-3 PLATFORM - [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)
 
 
 ***

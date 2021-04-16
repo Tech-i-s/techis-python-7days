@@ -14,7 +14,7 @@
 
 # Cohort
 
-- **Day Time Cohort Meetings**
+- **Day Time Cohort Meetings ( Morning & Evening )**
   - Zoom Meeting Link - https://zoom.us/j/96128675280?pwd=K0ZhL0RCOWdCK2xRaHZaVjNLMmdHZz09
   - Timings : Wednesday~Sunday → 1PM EST and 6PM EST || 10AM PST and 3PM PST
   

@@ -16,6 +16,8 @@
 
 ![10-day Graduation Plan](https://i.imgur.com/C9se1Vu.png)
 
+***
+
 # Cohort
 
 - **Day Time Cohort Meetings ( Morning & Evening )**

@@ -16,21 +16,6 @@
 
 ![10-day Graduation Plan](https://i.imgur.com/C9se1Vu.png)
 
-***
-
-# Cohort
-
-- **Day Time Cohort Meetings ( Morning & Evening )**
-  - Zoom Meeting Link : [Click here](https://zoom.us/j/96128675280?pwd=K0ZhL0RCOWdCK2xRaHZaVjNLMmdHZz09)
-  - Timings : Wednesday~Sunday → 1PM EST & 6PM EST || 10AM PST & 3PM PST
-  
-- **Night Meetings**
-  - Zoom Meeting Link : [Click here](https://zoom.us/j/98567537762?pwd=TkxQcWFtbm5mbmdVbVJxTW9QNmNIQT09)
-  - Timings : Sunday~Thursday → 9PM EST || 6PM PST
-
-***
-
-
 ### Graduation Requirements
 - Complete the four learning modules
 - 5 minute web-seminar about one topic from these learning modules (2 slides max)
@@ -56,6 +41,17 @@
 
 ***
 
+# Cohort
+
+- **Day Time Cohort Meetings ( Morning & Evening )**
+  - Zoom Meeting Link : [Click here](https://zoom.us/j/96128675280?pwd=K0ZhL0RCOWdCK2xRaHZaVjNLMmdHZz09)
+  - Timings : Wednesday~Sunday → 1PM EST & 6PM EST || 10AM PST & 3PM PST
+  
+- **Night Meetings**
+  - Zoom Meeting Link : [Click here](https://zoom.us/j/98567537762?pwd=TkxQcWFtbm5mbmdVbVJxTW9QNmNIQT09)
+  - Timings : Sunday~Thursday → 9PM EST || 6PM PST
+
+***
 
 # PYTHON FOUNDATION TOPICS
 

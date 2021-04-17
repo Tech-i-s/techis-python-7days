@@ -2,15 +2,9 @@
 
 ![py logo](https://raw.githubusercontent.com/Tech-i-s/techis-python-probation/main/techis_logo.jpg)
 
-# Getting Started !
-- [Must wach before starting](https://drive.google.com/file/d/1S4vmKoR2z0kB7KGgI2eU59JpVoRhKSCx/view)
-- [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
-  - **Python-3 Platform** - [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)
+# Roadmaps
 
-- [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)
-
-
-***
+![10-day Graduation Plan](https://i.imgur.com/C9se1Vu.png)
 
 # Cohort
 
@@ -23,10 +17,6 @@
   - Timings : Sunday~Thursday → 9PM EST || 6PM PST
 
 ***
-
-# Roadmaps
-
-![10-day Graduation Plan](https://i.imgur.com/C9se1Vu.png)
 
 
 ### Graduation Requirements
@@ -51,6 +41,16 @@
   - reach out to tutors for help with the hard to understand sub-topics from the modules
   - find more examples for each sub-topic from internet research and practice it more 
   - review the material more times 
+
+***
+
+# Getting Started !
+- [Must wach before starting](https://drive.google.com/file/d/1S4vmKoR2z0kB7KGgI2eU59JpVoRhKSCx/view)
+- [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
+  - **Python-3 Platform** - [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)
+
+- [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)
+
 
 ***
 

@@ -3,11 +3,12 @@
 ![py logo](https://raw.githubusercontent.com/Tech-i-s/techis-python-probation/main/techis_logo.jpg)
 
 # Getting Started !
-- [Must wach before starting](https://drive.google.com/file/d/1S4vmKoR2z0kB7KGgI2eU59JpVoRhKSCx/view)
+- [Must watch before starting](https://youtu.be/YnxQup3sveU)
 - [Kickstarting Programming with Python - Part 1](https://youtu.be/tVDSnkXh84g)
 - [Kickstarting Programming with Python - Part 2](https://youtu.be/8g0FUtxGZJs)
 ### Python-3 Platform
 - [Google Colab - Cloud Jupyter Notebooks](https://colab.research.google.com)
+- [Colab Commands that you must know!](https://youtu.be/DZm0X4mmxmU)
 
 
 ***

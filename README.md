@@ -78,14 +78,7 @@
   - `function` definitions
   - scopes of variables 
   - `lambda`
-  
-- [Modules in Python](https://github.com/Tech-i-s/python-10/blob/main/Step_1_1d_Modules_in_Python.ipynb):
-  - [Creating a Module on Google Colab - Supplementary Video](https://youtu.be/CEIUuXjmNb4) 
-  - Creating and Using python modules
-  - Datetime Module
-  - Math Module
-  - Random Module
-
+ 
 
 ***
 

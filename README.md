@@ -18,8 +18,7 @@
 ![10-day Graduation Plan](https://user-images.githubusercontent.com/59639763/123875967-2f5e7100-d958-11eb-945c-c7b310279ac6.png)
 
 ### Graduation Requirements
-- Complete the four learning modules
-- 5 minute web-seminar about one topic from these learning modules (2 slides max)
+- Complete the tree learning modules
 - Python Quiz ( 20 min )
   - Perfect Score to Pass (10/10)
   - Use of Google Colab during Quiz is allowed

@@ -15,7 +15,7 @@
 
 # Roadmaps
 
-![10-day Graduation Plan](https://user-images.githubusercontent.com/59639763/123875967-2f5e7100-d958-11eb-945c-c7b310279ac6.png)
+![10-day Graduation Plan](https://github.com/Tech-i-s/techis-python-probation/roadmap.png)
 
 ### Graduation Requirements
 - Complete the tree learning modules

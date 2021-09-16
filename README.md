@@ -25,8 +25,8 @@
 
 
 ### Quiz Preparation Tips:
-- Put in 4 hours a day for 10 days 
-  - studying the PY-10 learning material
+- Put in 4 hours a day for 7 days 
+  - studying the PY-7 learning material
 - Practice coding!!!
   - Example: build simple calculators 
     - simple interest calculators 
